@@ -11,3 +11,5 @@ This repository contains the compiled website only. Source code is maintained se
 Includes an original procedural seaside BGM loop and distinct effects. Sound starts after selecting a mode, pauses with the game, and can be muted or adjusted in the pause menu.
 
 The bay includes tourists who snack, restock and guard their fries, four foraging crabs and two beach dogs. Skim past a tourist to snatch fries, explore tide pools and picnic areas, and build escalating combos.
+
+Explore a roughly doubled bay with a seaside market and rocky tidal coast, cats and turtles. NPCs carry fries, ice cream, spicy hotdogs or soda: each has a distinct food/projectile silhouette and temporary effect. Ice shards fall faster, spiked hotdog shots splash nearby targets, and soda boosts flight with bubbly projectiles.
